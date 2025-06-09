@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<integer name="workspace_grid_columns">6</integer>
+<integer name="workspace_grid_rows">6</integer>
+    <!-- Увеличиваем количество колонок до 6 -->
+    <integer name="cell_count_x">5</integer>
+    <!-- Увеличиваем количество строк до 7 -->
+    <integer name="cell_count_y">6</integer>
+</resources>

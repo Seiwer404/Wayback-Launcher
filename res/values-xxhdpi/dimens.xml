@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ширина ячейки для 6 колонок -->
+    <dimen name="workspace_cell_width_port">60.0dip</dimen>
+    <!-- Высота ячейки для 7 строк -->
+    <dimen name="workspace_cell_height_port">110.0dip</dimen>
+    <!-- Зазоры между ячейками -->
+    <dimen name="workspace_width_gap_port">4.0dip</dimen>
+    <dimen name="workspace_height_gap_port">6.0dip</dimen>
+    <!-- Отступы для статуса-бара и навигации -->
+    <dimen name="workspace_top_padding_port">48.0dip</dimen>
+    <dimen name="workspace_bottom_padding_port">64.0dip</dimen>
+    <!-- Размер иконок (чуть увеличим для читаемости) -->
+    <dimen name="app_icon_size">50.0dip</dimen>
+</resources>
