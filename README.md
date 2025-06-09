@@ -5,6 +5,4 @@ Remember what Android 4.2 looked like?  Feeling nostalgic for it? Well, this app
 
 ![photo_2025-06-09_17-25-00](https://github.com/user-attachments/assets/7992a0e9-5bce-40c5-822e-b86757cf1b11)      
 
-![photo_2025-06-09_17-25-03](https://github.com/user-attachments/assets/fe27b480-3587-4923-9532-8e56eab0b7d4)
-
-
+![photo_2025-06-09_17-25-03](https://github.com/user-attachments/assets/fe27b480-3587-4923-9532-8e56eab0b7d4)    ![photo_2025-06-09_17-32-21](https://github.com/user-attachments/assets/181fedb3-c344-43f3-97ae-6a21861becdf)
